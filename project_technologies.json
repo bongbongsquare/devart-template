@@ -4,13 +4,14 @@
             "instagram apis"
         ],
         "platforms": [
-            "os x platforms"
+            "os x"
         ],
         "toolkits": [
             "openframeworks"
+            "c++"
         ]
     },
     "themes": [
-        "c++ language"
+        "screen"
     ]
 }
