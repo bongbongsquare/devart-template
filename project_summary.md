@@ -25,8 +25,8 @@ function test() {
 [Example Link](http://www.google.com "Example Link")
 
 ## Images & Videos
-http://bongbongsquare.com/?p=516
 
-![Example Image](project_images/cover.jpg?raw=true "Example Image")
+
+![Example Image](http://bongbongsquare.com/?p=516 "Example Image")
 
 https://www.youtube.com/watch?v=30yGOxJJ2PQ
