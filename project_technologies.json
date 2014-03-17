@@ -2,14 +2,16 @@
     "technologies": {
         "apis": [
             "instagram"
-
+            ""instagram""
         ],
         "platforms": [
             "os x"
+                        ""instagram""
         ],
         "toolkits": [
             "openframeworks"
             "c++"
+            ""instagram""
         ]
     },
     "themes": [
