@@ -29,4 +29,4 @@ function test() {
 
 ![Example Image](http://bongbongsquare.com/?p=516 "Example Image")
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+http://youtu.be/AE0CCHqou8Y
