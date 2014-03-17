@@ -2,6 +2,7 @@
     "technologies": {
         "apis": [
             "instagram apis"
+             "flickr apis"
         ],
         "platforms": [
             "os x"
