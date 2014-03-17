@@ -27,6 +27,6 @@ function test() {
 ## Images & Videos
 
 
-![Example Image](../project_images/googleDev01.jpg?raw=true "Example Image")
+![Example Image](../project_images/googleDev01.png?raw=true "Example Image")
 
 http://youtu.be/AE0CCHqou8Y
