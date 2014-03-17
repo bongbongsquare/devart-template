@@ -27,6 +27,6 @@ function test() {
 ## Images & Videos
 
 
-![Example Image](http://bongbongsquare.com/?p=516 "googleDev01")
+![Example Image](../project_images/googleDev01.jpg?raw=true "Example Image")
 
 http://youtu.be/AE0CCHqou8Y
