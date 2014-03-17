@@ -2,6 +2,5 @@ The aim of this project is to imitate the coming spring in the both virtual and 
 
 ![Example Image](../project_images/cover.jpg?raw=true "Example Image")
 
-http://bongbongsquare.com/wp-content/uploads/2014/03/cover-picture.jpg
 
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
+
