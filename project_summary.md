@@ -1,5 +1,4 @@
-# Project Title
-SPRING
+# SPRING
 
 ## Authors
 - Jing Fang, bongbongsquare
